@@ -15,7 +15,6 @@
 > *Bukavu, Sud-Kivu, RDC*  
 > *Candidature au poste de Stagiaire DéveloppeurC'est une excellente structure pour un README professionnel. Comme tu postules pour un stage chez **Karaba Africa**, la clarté de ton architecture et la mention de Docker sont de gros points positifs.
 
-Voici le code Markdown final, prêt à être copié-collé. J'ai simplement nettoyé les espaces insécables et corrigé les liens pour qu'ils soient parfaitement clairs sur GitHub :
 ```markdown
 # 🛒 MarketBot - Plateforme E-commerce Conversationnelle
 
