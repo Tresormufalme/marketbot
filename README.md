@@ -1,19 +1,5 @@
 ```
 
----
-
-## 📋 Évaluation des contraintes
-
-- [x] **Docker Compose** : Un seul `up` lance tout l'écosystème.
-- [x] **Redis** : Sessions conversationnelles actives pour le suivi d'état.
-- [x] **QR Code** : Intégration prévue dans le tunnel bot et le dashboard.
-- [x] **TypeScript** : Utilisé pour la robustesse du frontend.
-
----
-
-> **Développé par Trésor Mufalme**  
-> *Bukavu, Sud-Kivu, RDC*  
-> *Candidature au poste de Stagiaire DéveloppeurC'est une excellente structure pour un README professionnel. Comme tu postules pour un stage chez **Karaba Africa**, la clarté de ton architecture et la mention de Docker sont de gros points positifs.
 
 ```markdown
 # 🛒 MarketBot - Plateforme E-commerce Conversationnelle
@@ -44,10 +30,6 @@ docker compose up --build
 | **Dashboard Admin** | [http://localhost:3000/admin](http://localhost:3000/admin) |
 | **Interface Bot** | [http://localhost:3000/bot](http://localhost:3000/bot) |
 | **Documentation API (Swagger)** | [http://localhost:8000/docs](http://localhost:8000/docs) |
-
-### 🔑 Identifiants de test (Admin)
-* **Username :** `admin`
-* **Password :** `admin123`
 
 ---
 
